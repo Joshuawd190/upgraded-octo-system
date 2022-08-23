@@ -1,0 +1,19 @@
+{
+  "name": "upgraded-octo-system",
+  "version": "1.0.0",
+  "description": "Node Backend for Apointment management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joshuawd190/upgraded-octo-system.git"
+  },
+  "author": "Joshua D Wood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joshuawd190/upgraded-octo-system/issues"
+  },
+  "homepage": "https://github.com/Joshuawd190/upgraded-octo-system#readme"
+}
