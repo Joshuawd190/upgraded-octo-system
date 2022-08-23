@@ -106,3 +106,19 @@ dist
 
 package-lock.json
 REACTREADME.md
+
+venv/
+.env
+
+*.pyc
+__pycache__/
+
+instance/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/
